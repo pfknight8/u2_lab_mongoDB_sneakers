@@ -6,6 +6,8 @@
 In this lab, we'll used what we learned about working in the mongo shell to practice interacting with a new database of sneakers.
 
 ## Getting started
+- `Fork` and `Clone`
+- Open in VSCode so you can *paste your answers* into the ReadMe
 - Open Terminal
 - Tighten those laces
 
