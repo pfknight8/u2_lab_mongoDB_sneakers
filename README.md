@@ -37,7 +37,7 @@ mongo
 Next, let's create a new database:
 
 ```sh
-use productsDatabase
+use sneakersDatabase
 ```
 
 Cool, now let's populate our products database with products. Let's start by creating a products collection, then using insertMany to insert multiple documents:
