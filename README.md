@@ -121,6 +121,6 @@ Write your queries below:
 ![Jordan](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Fa46d189bb8c3489dd21537e8478f61c4%2Ftumblr_p44eax11pT1r2cri9o2_500.gifv&f=1&nofb=1)
 
 ## Resources
-- [Intro to MongoDB](https://github.com/SEI-R-1-25/u2_lesson_mongoDB)
+- [Intro to MongoDB](https://github.com/SEI-R-4-26/u2_lesson_mongoDB)
 - [Mongo Shell](https://docs.mongodb.com/manual/mongo/)
 - [MongoDB Glossary](https://docs.mongodb.com/manual/reference/glossary/)
