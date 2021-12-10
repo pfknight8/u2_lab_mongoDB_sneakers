@@ -31,7 +31,7 @@ const products = [
 Let's start by connecting to the mongo interactive shell:
 
 ```sh
-mongo
+mongosh
 ```
 
 Next, let's create a new database:
